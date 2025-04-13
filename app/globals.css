@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+/* Basic styling to ensure Tailwind is working */
+.text-primary {
+  color: #e86c60;
+}
+
+.text-secondary {
+  color: #384347;
+}
+
+.bg-primary {
+  background-color: #e86c60;
+}
+
+.bg-secondary {
+  background-color: #384347;
+} 

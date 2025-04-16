@@ -1,3 +1,4 @@
+![Screenshot (3)](https://github.com/user-attachments/assets/633a6c73-c33e-468d-b725-d3f4bd4ee480)
 # HarrshaNxt
 
 A modern e-commerce website built with Next.js, TypeScript, and Tailwind CSS.
